@@ -1,0 +1,11 @@
+steak
+tomate
+salade
+fromage
+cornichon
+mayonnaise
+<<<<<<< Updated upstream
+cacahuete  
+=======
+cacahuete 
+>>>>>>> Stashed changes
